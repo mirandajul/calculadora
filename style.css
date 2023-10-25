@@ -13,7 +13,7 @@
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-color: hsl(221, 79%, 40%);
+  background-color: hsl(320, 79%, 40%);
   }
   h1 { 
     background-color: #080a7d;
@@ -21,7 +21,7 @@
   }
 
 .calculator {
-border: 2px solid hsl(25, 88%, 45%);
+border: 2px solid hsl(199, 88%, 45%);
 width: 800px; /* Largura aumentada para 800 pixels */
 height: 600px; /* Altura aumentada para 600 pixels */
 margin: 0 auto; /* Centraliza a calculadora horizontalmente na página */
